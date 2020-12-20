@@ -21,5 +21,8 @@
     "eslint": ">= 7",
     "eslint-config-prettier": ">= 7",
     "eslint-plugin-prettier": ">= 3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
