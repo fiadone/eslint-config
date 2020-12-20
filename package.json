@@ -1,0 +1,25 @@
+{
+  "name": "@fiad/eslint-config",
+  "version": "1.0.0",
+  "description": "A custom ESLint Shareable Config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiadone/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "Andrea 'Fiad' Fiadone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fiadone/eslint-config/issues"
+  },
+  "homepage": "https://github.com/fiadone/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 7",
+    "eslint-config-prettier": ">= 7",
+    "eslint-plugin-prettier": ">= 3"
+  }
+}
