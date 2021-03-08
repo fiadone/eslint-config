@@ -8,8 +8,7 @@ module.exports = {
     "jest": true
   },
   "extends": [
-    "eslint:recommended",
-    "plugin:prettier/recommended"
+    "eslint:recommended"
   ],
   "parser": "babel-eslint",
   "parserOptions": {
@@ -48,7 +47,6 @@ module.exports = {
       "objectsInObjects": true
     }],
     "prefer-const": "error",
-    "prettier/prettier": "error",
     "quotes": ["error", "single"],
     "semi": [2, "never"]
   }
