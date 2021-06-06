@@ -33,6 +33,7 @@ module.exports = {
     "no-async-promise-executor": "error",
     "no-else-return": "error",
     "no-import-assign": "error",
+    "no-prototype-builtins": "off",
     "no-trailing-spaces": ["error", {
       "ignoreComments": true,
       "skipBlankLines": true
