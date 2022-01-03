@@ -16,7 +16,7 @@ npm i @fiad/eslint-config
 ```json
 // .eslintrc
 {
-    "extends": "@fiad/eslint-config"
+    "extends": "@fiad"
 }
 ```
 

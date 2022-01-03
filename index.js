@@ -2,17 +2,16 @@ module.exports = {
   "root": true,
   "env": {
     "browser": true,
+    "es2021": true,
+    "jest": true,
     "node": true,
-    "es6": true,
-    "worker": true,
-    "jest": true
+    "worker": true
   },
   "extends": [
     "eslint:recommended"
   ],
-  "parser": "babel-eslint",
   "parserOptions": {
-    "ecmaVersion": 9,
+    "ecmaVersion": "latest",
     "sourceType": "module"
   },
   "rules": {

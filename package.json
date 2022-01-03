@@ -1,6 +1,6 @@
 {
   "name": "@fiad/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A custom ESLint Shareable Config",
   "main": "index.js",
   "repository": {
